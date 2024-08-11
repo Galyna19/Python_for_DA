@@ -12,3 +12,5 @@ Homework_124.ipynb - Домашнє завдання до теми "Констр
 Homework_131_132.ipynb - Домашнє завдання: Цикл for
 
 Homework_133.ipynb - Домашнє завдання: Comprehension в Python
+
+Homework_134.ipynb - Домашнє завдання: Цикл while
